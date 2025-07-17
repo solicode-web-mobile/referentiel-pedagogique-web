@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title:  CMS - WordPress
 layout: home
+nav_order: 14
 ---
 
-**📅 S14 – CMS : WordPress**
+# **📅 S14 – CMS : WordPress**
 
 - **Période** : du **13 au 24 avril 2026** – *Semaines 14–15*
 - **Thématique** : **Créer un site web sans coder avec WordPress**

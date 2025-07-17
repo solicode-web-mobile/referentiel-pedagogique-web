@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title:  Blog - Maquette & Structure HTML
 layout: home
+nav_order: 15
 ---
 
-**📅 S15 – Blog : Maquette & Structure HTML**
+# **📅 S15 – Blog : Maquette & Structure HTML**
 
 - **Période** : du **27 avril au 8 mai 2026** – *Semaines 16–17*
 - **Thématique** : **Préparer le blog fil rouge – Structure HTML & design responsive**

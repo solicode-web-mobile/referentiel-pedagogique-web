@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: JavaScript - DOM & Événements
 layout: home
+nav_order: 5
 ---
 
-## **📅 S05 – JavaScript : DOM & Événements**
+## # **📅 S05 – JavaScript : DOM & Événements**
 
 - **Période** : du **17 novembre au 28 novembre 2025** – *Semaines 47–48*
 - **Thématique** : **Manipulation du DOM et interactions utilisateur**

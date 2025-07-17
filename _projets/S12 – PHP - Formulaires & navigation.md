@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: PHP - Formulaires & navigation
 layout: home
+nav_order: 12
 ---
 
-**📅 S12 – PHP : Formulaires & navigation**
+# **📅 S12 – PHP : Formulaires & navigation**
 
 - **Période** : du **9 au 20 mars 2026** – *Semaines 10–11*
 - **Thématique** : **Interaction utilisateur via formulaires et sessions**

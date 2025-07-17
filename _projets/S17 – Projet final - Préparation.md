@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: Projet final - Préparation
 layout: home
+nav_order: 17
 ---
 
-**📅 S17 – Projet final : Préparation**
+# **📅 S17 – Projet final : Préparation**
 
 - **Période** : du **1er au 12 juin 2026** – *Semaines 20–21*
 - **Thématique** : **Planification du blog final et consolidation des compétences**

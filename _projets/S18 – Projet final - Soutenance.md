@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: Projet final - Soutenance
 layout: home
+nav_order: 18
 ---
 
-**📅 S18 – Projet final : Soutenance**
+# **📅 S18 – Projet final : Soutenance**
 
 - **Période** : du **15 au 26 juin 2026** – *Semaines 22–23*
 - **Thématique** : **Finalisation et présentation du projet de blog**

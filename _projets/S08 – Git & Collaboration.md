@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: Git & Collaboration
 layout: home
+nav_order: 8
 ---
 
-**📅 S08 – Git & Collaboration**
+# **📅 S08 – Git & Collaboration**
 
 - **Période** : du **6 au 17 janvier 2026** – *Semaines 2–3*
 - **Thématique** : **Gestion de version et travail en équipe**

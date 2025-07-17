@@ -1,9 +1,9 @@
 ---
-title: S01 – SAS 
+title: POO & Accès aux données avec PHP
 layout: home
+nav_order: 13
 ---
-
-**📅 S13 – POO & Accès aux données avec PHP**
+# **📅 S13 – POO & Accès aux données avec PHP**
 
 - **Période** : du **30 mars au 10 avril 2026** – *Semaines 12–13*
 - **Thématique** : **Structuration du code et interaction avec la base de données**

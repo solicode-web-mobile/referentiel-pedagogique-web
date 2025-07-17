@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: SQL - Requêtes & manipulation des données
 layout: home
+nav_order: 10
 ---
 
-**📅 S10 – SQL : Requêtes & manipulation des données**
+# **📅 S10 – SQL : Requêtes & manipulation des données**
 
 - **Période** : du **9 au 20 février 2026** – *Semaines 6–7*
 - **Thématique** : **Interroger et modifier une base de données**

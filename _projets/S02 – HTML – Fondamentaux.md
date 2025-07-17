@@ -1,13 +1,14 @@
 ---
-title: S02 – HTML – Fondamentaux
+title: HTML – Fondamentaux
 layout: home
+nav_order: 2
 ---
 
 # **📅 S02 – HTML – Fondamentaux**
 
-- - **Période** : du **6 octobre au 17 octobre 2025** – *Semaines 41–42*
-- - **Thématique** : **Structuration HTML et accessibilité**
-- - **Jour férié / vacances** : Aucun
+- **Période** : du **6 octobre au 17 octobre 2025** – *Semaines 41–42*
+- **Thématique** : **Structuration HTML et accessibilité**
+- **Jour férié / vacances** : Aucun
 
 ---
 

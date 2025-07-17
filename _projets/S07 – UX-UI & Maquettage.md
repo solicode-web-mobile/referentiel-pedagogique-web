@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: UX/UI & Maquettage
 layout: home
+nav_order: 7
 ---
 
-**📅 S07 – UX/UI & Maquettage**
+# **📅 S07 – UX/UI & Maquettage**
 
 - **Période** : du **15 au 26 décembre 2025** – *Semaines 51–52*
 - **Thématique** : **Concevoir des interfaces web centrées utilisateur**

@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: Base de données - Modélisation & SQL
 layout: home
+nav_order: 9
 ---
 
-**📅 S09 – Base de données : Modélisation & SQL**
+# **📅 S09 – Base de données : Modélisation & SQL**
 
 - **Période** : du **20 au 31 janvier 2026** – *Semaines 4–5*
 - **Thématique** : **Concevoir une base relationnelle et écrire ses premières requêtes SQL**

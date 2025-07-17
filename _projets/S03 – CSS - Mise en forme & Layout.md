@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: CSS – Mise en forme & Layout
 layout: home
+nav_order: 3
 ---
 
-**📅 S03 – CSS : Mise en forme & Layout**
+# **📅 S03 – CSS : Mise en forme & Layout**
 
 - **Période** : du **20 octobre au 31 octobre 2025** – *Semaines 43–44*
 - **Thématique** : **Styliser une interface web moderne**

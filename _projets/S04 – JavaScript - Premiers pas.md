@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: JavaScript - Premiers pas
 layout: home
+nav_order: 4
 ---
 
-**📅 S04 – JavaScript : Premiers pas**
+# **📅 S04 – JavaScript : Premiers pas**
 
 - **Période** : du **3 novembre au 14 novembre 2025** – *Semaines 45–46*
 - **Thématique** : **Découverte du langage JavaScript (JS)**

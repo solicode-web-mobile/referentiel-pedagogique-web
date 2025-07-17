@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: JavaScript - API & Données
 layout: home
+nav_order: 6
 ---
 
-**📅 S06 – JavaScript : API & Données**
+# **📅 S06 – JavaScript : API & Données**
 
 - **Période** : du **1er décembre au 12 décembre 2025** – *Semaines 49–50*
 - **Thématique** : **Appels HTTP, JSON, affichage dynamique**

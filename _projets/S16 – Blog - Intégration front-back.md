@@ -1,9 +1,9 @@
 ---
-title: S01 – SAS 
+title: Blog - Intégration front/back
 layout: home
+nav_order: 16
 ---
-
-**📅 S16 – Blog : Intégration front/back**
+# **📅 S16 – Blog : Intégration front/back**
 
 - **Période** : du **18 au 29 mai 2026** – *Semaines 18–19*
 - **Thématique** : **Relier formulaires et base de données – blog dynamique**

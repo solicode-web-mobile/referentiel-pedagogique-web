@@ -1,9 +1,10 @@
 ---
-title: S01 – SAS 
+title: PHP - Syntaxe & logique
 layout: home
+nav_order: 11
 ---
 
-**📅 S11 – PHP : Syntaxe & logique**
+# **📅 S11 – PHP : Syntaxe & logique**
 
 - **Période** : du **23 février au 6 mars 2026** – *Semaines 8–9*
 - **Thématique** : **Découverte de PHP procédural**
