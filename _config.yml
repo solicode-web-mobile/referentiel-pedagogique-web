@@ -1,8 +1,40 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Référentiel pédagogique
+description: Le présent référentiel structure l'ensemble de la formation Web Solicode selon une logique hiérarchique claire
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
+url: https://solicode-web-mobile.github.io/referentiel-pedagogique-web/
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  solicode.co: https://solicode.co/
+aux_links_new_tab: false
+
+nav_enabled: true
+heading_anchors: true
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "9.1.3"
+
+
+# Define Jekyll collections
+collections:
+  # Define a collection named "tests", its documents reside in the "_tests" directory
+  projets:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "tests" collection
+    projets:
+      # Give the collection a name
+      name: Projets
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      # nav_exclude: true
+      # Fold the collection in the navigation
+      # Supports true or false (default)
+      # nav_fold: true  # note: this option is new in v0.4
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      # search_exclude: true
