@@ -22,9 +22,17 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
+  autoformations:
+    permalink: "/:collection/:path/"
+    output: true
+
+
+
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
+    autoformations:
+      name: Autoformations
     # Reference the "tests" collection
     projets:
       # Give the collection a name
