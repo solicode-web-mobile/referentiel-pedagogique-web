@@ -5,7 +5,7 @@ url: https://solicode-web-mobile.github.io/referentiel-pedagogique-web/
 aux_links:
   Autoformations: https://solicode-web-mobile.github.io/autoformations-web/
   solicode.co: https://solicode.co/
-aux_links_new_tab: false
+aux_links_new_tab: true
 nav_enabled: true
 heading_anchors: true
 
